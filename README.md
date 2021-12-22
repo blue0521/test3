@@ -40,8 +40,8 @@ print("test")
 
 이미지 올리기
 
-![이미지](http://kyrieko.dothome.co.kr/imahes/first.jpg)
+![이미지](http://blog.jinbo.net/attach/615/200937431.jpg)
 
-
+![인형](./images/
 
 
